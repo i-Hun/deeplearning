@@ -4,3 +4,4 @@
 *.pkl
 __pycache__/
 .ipynb_checkpoints/
+WSDM2021/00_Data/*
